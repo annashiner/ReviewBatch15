@@ -9,7 +9,7 @@ public class SwitchDemo {
          */
 
         int worldCup=2022;
-        switch (worldCup){
+        switch (worldCup) {
             case 2022:
                 System.out.println("Winner is Argentina");
                 break;
